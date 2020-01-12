@@ -1,6 +1,6 @@
 {
   "name": "vhook",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=dev nodemon ./bin/www",
