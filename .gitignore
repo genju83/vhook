@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build
+out/
+node_modules/
+public/vendor
+public/out
+content/cache
+content/vendor
+*.rest
